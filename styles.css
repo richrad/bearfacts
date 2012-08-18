@@ -1,0 +1,42 @@
+/*
+	font-family: 'Kameron', serif;
+	font-family: 'Josefin Slab', serif;
+*/
+
+#logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 250px;
+	width: 250px;
+}
+
+#box {
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: normal;
+	font-family: 'Kameron', serif;
+	font-size: 4em;
+}
+
+#quote {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 2em;
+	font-family: 'Josefin Slab', serif;
+}
+
+#attribution {
+	text-align: right;
+	font-style: italic;
+	font-size: 2em;
+	font-family: 'Josefin Slab', serif;
+}
+
