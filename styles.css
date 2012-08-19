@@ -40,3 +40,17 @@ h1 {
 	font-family: 'Josefin Slab', serif;
 }
 
+#footer {
+	font-family: 'Kameron', serif;
+	text-align: center;
+}
+
+#footer a {
+	font-size: 1.5em;
+	color: #149BE8;
+	
+}
+
+#footer a:hover {
+	color: #000;
+}

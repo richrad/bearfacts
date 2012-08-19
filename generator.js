@@ -20,3 +20,8 @@ function showattrib()
 	{
 	document.write(attrib[randattrib]);
 	}
+	
+function tweet()
+	{
+	window.open("http://twitter.com/home?status=" + quote[randquote] + " http://bearfacts.info %23bearfacts");
+	}
