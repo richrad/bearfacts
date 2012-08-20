@@ -2,6 +2,7 @@ var quote=new Array();
 
 quote[0] = "Bears discovered fire before man, but prefer their fish raw.";
 quote[1] = "Mitt Romney personally employs seven riding bears to help him navigate his underground fortress.";
+quote[2] = "Trigger Warning: This website is about bears.";
 
 var attrib=new Array();
 attrib[0] = "Jane's Guide to the Modern Bear";
