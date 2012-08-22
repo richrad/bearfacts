@@ -3,6 +3,8 @@ var quote=new Array();
 quote[0] = "Bears discovered fire before man, but prefer their fish raw.";
 quote[1] = "Mitt Romney personally employs seven riding bears to help him navigate his underground fortress.";
 quote[2] = "Trigger Warning: This website is about bears.";
+quote[3] = "Only four U.S. Congressmen have been bears.";
+quote[4] = "What to do if you encounter a panda bear:<ol><li>Hide any and all bamboo.</li><li>Close your eyes. If you cannot see the panda, it cannot see you.</li><li>Say [very clearly and loudly], &#8220;I sure am glad that there are NO PANDAS around here. I see no pandas at all!&#8221; [this step is necessary in case the panda does not see that your eyes are closed. This will ensure that the panda knows that it does not see you.]</li></ol>";
 
 var attrib=new Array();
 attrib[0] = "Jane's Guide to the Modern Bear";
